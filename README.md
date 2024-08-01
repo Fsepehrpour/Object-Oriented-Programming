@@ -1,4 +1,6 @@
 # Object-Oriented-Programming
+![object-oriented-programming](./object-oriented-programming.png)
+
 Object-oriented programming developed as a way to organize code for data structures. 
 
 The data managed in the structure is kept in an **object**. The object is also called an **instance** of a class of objects.
