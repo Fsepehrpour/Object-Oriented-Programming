@@ -1,5 +1,5 @@
 # Object-Oriented-Programming
-![object-oriented-programming](./object-oriented-programming.png)
+![object-oriented-programming](./object-oriented-programming.jpeg)
 
 Object-oriented programming developed as a way to organize code for data structures. 
 
